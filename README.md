@@ -17,7 +17,8 @@
 ### `git clone` and globally install the module
 
 ```bash
-git clone zerosheepmoo/firstdo.git
+git clone https://github.com/zerosheepmoo/firstdo.git
+cd ./firstdo
 npm i -g
 ```
 
