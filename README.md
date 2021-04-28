@@ -1,6 +1,6 @@
 # firstdo
 
-![main](./main.png)
+![main](https://github.com/zerosheepmoo/firstdo/blob/master/main.png)
 
 - firstdo is inspired by [js cli nodejs article](https://www.sitepoint.com/javascript-command-line-interface-cli-node-js/)
   and [create octokit project](https://github.com/octokit/create-octokit-project.js)!
@@ -24,7 +24,9 @@ npm i -g
 
 ### npm package
 
-> Not implemented
+```bash
+npm i -g firstdo
+```
 
 ## Usage
 
@@ -34,4 +36,4 @@ firstdo
 
 ## Changelog
 
-See [ChangeLog.md](./ChangeLog.md)
+See [ChangeLog.md](https://github.com/zerosheepmoo/firstdo/blob/master/ChangeLog.md)
