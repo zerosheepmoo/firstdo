@@ -1,5 +1,7 @@
 # firstdo
 
+![main](./main.png)
+
 - firstdo is inspired by [js cli nodejs article](https://www.sitepoint.com/javascript-command-line-interface-cli-node-js/)
   and [create octokit project](https://github.com/octokit/create-octokit-project.js)!
 - firstdo basically targets Korean Javascript Newbie. (to understand nodejs cli)
